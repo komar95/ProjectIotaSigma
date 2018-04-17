@@ -1,0 +1,2 @@
+# ProjectIotaSigma
+Julia Set calculator
